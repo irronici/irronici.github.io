@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 徐浩
++86 185-8510-6303·[xuhao2021@gamil.com](xuhao2021@gamil.com)
 
-You can use the [editor on GitHub](https://github.com/irronici/irronici.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 教育背景
+南京大学 计算机科学与技术系
++ GPA: 4.31/5.0
++ 人民奖学金(2019、2020)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目经历
 
-### Markdown
+基于Github平台的贡献度挖掘（2021年3月 – 至今）
++ 以Github为数据集，收集项目数据
++ 从代码行数、文件操作类型、被修改文件ast比较等多角度计算项目参与者贡献度
++ 对比了项目参与者之间以及项目参与者和项目整体贡献度，并进行了数据可视化
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+c--编译器（2019年9月 - 2019年12月）
+2人小组领导，设计&开发
++ 设计并开发了一个可以编译C--（C语言的简易版本）的编译器，完成了c--的词法分析、语法分析、语义分析，并将源代码转换为对应MIPS32汇编指令
++ 通过GNU Flex以及Bison完成词法分析，并生成语法分析树
++ 通过消除公共子表达式，消除冗余指令，常量代入等方式对编译器进行了优化
 
-```markdown
-Syntax highlighted code block
+NEMU(NJU EMUlator)（2018年9月 - 2018年12月）
++ 模拟QEMU，通过C语言完成了虚拟机，并支持大部分Intel x86指令
++ 完成了内存的映射分配以及相关外围设备的模拟
++ 可以成功运行小程序（如弹幕小游戏）
 
-# Header 1
-## Header 2
-### Header 3
+工业App分级系统（2019年9月 - 2019年12月）
++ 基于Spring，Thymeleaf，MyBatis，MySQL设计并开发对工业App进行分级的Web应用，并编写了开发文档
++ 通过墨刀制作了完整的App原型
++ 使用Thymeleaf +JavaScript设计并完善了用户界面，并编写了测试代码对分级系统进行测试
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 技能
 
-**Bold** and _Italic_ and `Code` text
++ 基础：理解面向对象开发以及函数式编程，理解并能应用常用的数据结构
++ 编程：熟练使用C/C++, Python, Java, MATLAB, Markdown
++ 工具：熟练运用SQL，Git，Adobe Photoshop, Adobe Premiere Pro
++ Web前端：掌握HTML, CSS，JavaScript基础
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irronici/irronici.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
